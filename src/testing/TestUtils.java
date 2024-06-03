@@ -184,7 +184,7 @@ public class TestUtils extends Mod{
     }
 
     public static boolean disableTeleport(){
-        return TUVars.foos || net.client());
+        return TUVars.foos || net.client();
     }
 
     public static boolean canTeleport(){
