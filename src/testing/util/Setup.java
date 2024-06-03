@@ -41,11 +41,11 @@ public class Setup{
                 Death.addButtons(t);
                 LightSwitch.lightButton(t);
             });
-        }, () -> !net.client();
+        }, () -> !net.client());
 
         BLSetup.addTable(table -> {
             table.table(Tex.pane, Death::seppuku);
-        }, () -> !net.client();
+        }, () -> !net.client());
 
         Table miniPos = ui.hudGroup.find("minimap/position");
         Label pos = miniPos.find("position");
