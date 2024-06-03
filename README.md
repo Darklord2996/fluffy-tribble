@@ -1,4 +1,4 @@
-![Logo](assets/sprites/settings-banner.png)
+![Logo](assets/sprites/settings-banner.png) (Fluffy edition) see original repo
 
 [![Commit Compiling](https://github.com/MEEPofFaith/testing-utilities-java/workflows/Commit%20Testing/badge.svg)](https://github.com/MEEPofFaith/testing-utilities-java/actions/workflows/commitTest.yml)
 [![Discord](https://img.shields.io/discord/704355237246402721.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=ffd37f&label=Mindustry)](https://discord.com/invite/mindustry)
@@ -6,10 +6,10 @@
 [![Discord](https://img.shields.io/discord/704355237246402721.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=8a1a1a&label=Avant)](https://discord.gg/V6ygvgGVqE)
 [![Stars](https://img.shields.io/github/stars/MEEPofFaith/testing-utilities-java?label=Star%20the%20mod%20here%21&style=social)]()
 
-Several useful utilities for testing stuff in sandbox:
+Several useful utilities for testing stuff in sandbox, and the campaign!
 
 - Team Changer - Change teams easilty.
-- Self Destruct - Kill yourself. Press and hold to repeat. (Enabled in campaign)
+- Self Destruct - Kill yourself. Press and hold to repeat.
 - Clone - Clones the unit you're controlling. Press and hold to repeat.
 - Heal/Invincibility - Heal yourself, or make yourself invincible.
 - Sandbox/Survival Button - Toggles infinite resources.
